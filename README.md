@@ -5,7 +5,7 @@ About me
 🎓 Studying software engineering at Ghousia College
 🌱 Learning data science and machine learning
 💼 Looking for opportunities in data science and machine learning
-📫 Reach me at: syed.daniyal.bokhari@gmail.com
+📫 Reach me at: syeddaniyalbokhari72@gmail.com
 Projects
 Here are some of the projects I have worked on:
 
