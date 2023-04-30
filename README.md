@@ -32,3 +32,9 @@ Data analysis and visualization
 Machine learning
 Deep learning
 Natural Language Processing
+
+
+Contact me
+Phone: 9353252474
+Email: syeddaniyalbokhari72@gmail.com
+Linkedin:https://www.linkedin.com/in/syed-daniyal-bokhari-741403255/
