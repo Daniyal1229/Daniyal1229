@@ -1,10 +1,16 @@
 # Daniyal Bokhari - MERN Stack Developer
 
-Welcome to my GitHub page! I am Daniyal Bokhari, a passionate MERN stack developer with a knack for creating efficient and scalable web applications. Here, you'll find some of my notable projects, each showcasing my skills and dedication to delivering high-quality code.
+![Banner](https://via.placeholder.com/1200x300?text=Daniyal+Bokhari+-+MERN+Stack+Developer)
 
-## Projects
+---
 
-### 1. Todo List
+Welcome to my GitHub page! I am **Daniyal Bokhari**, a passionate MERN stack developer with a knack for creating efficient and scalable web applications. Here, you'll find some of my notable projects, each showcasing my skills and dedication to delivering high-quality code.
+
+---
+
+## 🌟 Projects
+
+### 1. 📝 Todo List
 A simple yet effective Todo List application that helps you manage your tasks efficiently.
 
 - **Features:**
@@ -15,7 +21,7 @@ A simple yet effective Todo List application that helps you manage your tasks ef
 - **Technologies Used:**
   - MongoDB, Express.js, React, Node.js
 
-### 2. Invoice Generator
+### 2. 📑 Invoice Generator
 A comprehensive Invoice Generator application that simplifies the process of creating and managing invoices.
 
 - **Features:**
@@ -26,7 +32,7 @@ A comprehensive Invoice Generator application that simplifies the process of cre
 - **Technologies Used:**
   - MongoDB, Express.js, React, Node.js
 
-### 3. Student Management System
+### 3. 🎓 Student Management System
 A robust Student Management System designed to manage student information seamlessly.
 
 - **Features:**
@@ -37,7 +43,9 @@ A robust Student Management System designed to manage student information seamle
 - **Technologies Used:**
   - MongoDB, Express.js, React, Node.js
 
-## Contact Me
+---
+
+## 📫 Contact Me
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
 - **Email:** [daniyalbokhari@example.com](mailto:daniyalbokhari@example.com)
@@ -56,18 +64,25 @@ Feel free to reach out if you have any questions or if you'd like to collaborate
 
 ---
 
-## Skills
+## 💼 Skills
 
 - **Frontend:** HTML, CSS, JavaScript, React, Redux
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, Mongoose
 - **Tools:** Git, GitHub, Docker, Jenkins
 
-## GitHub Stats
+---
 
-![Daniyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniyalbokhari&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-## Acknowledgments
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniyalbokhari&show_icons=true&theme=radical" alt="Daniyal's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalbokhari&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
+## 🙏 Acknowledgments
 
 I would like to extend my gratitude to all the open-source contributors whose projects and libraries have made my journey as a developer smoother and more enjoyable.
 
