@@ -66,10 +66,21 @@ Feel free to reach out if you have any questions or if you'd like to collaborate
 
 ## 💼 Skills
 
-- **Frontend:** HTML, CSS, JavaScript, React, Redux
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, Mongoose
-- **Tools:** Git, GitHub, Docker, Jenkins
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">HTML</span>
+  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">CSS</span>
+  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">JavaScript</span>
+  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">React</span>
+  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Redux</span>
+  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Node.js</span>
+  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Express.js</span>
+  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">MongoDB</span>
+  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Mongoose</span>
+  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Git</span>
+  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">GitHub</span>
+  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Docker</span>
+  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Jenkins</span>
+</div>
 
 ---
 
