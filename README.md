@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1500x300?text=Daniyal+Bokhari+-+Frontend+Developer" alt="Daniyal Bokhari - Frontend Developer" width="100%">
+  <img src="https://img.shields.io/badge/Daniyal%20Bokhari-Frontend%20Developer-brightgreen?style=for-the-badge&logo=react&logoColor=white&labelColor=2C3E50&color=27AE60" alt="Daniyal Bokhari - Frontend Developer" width="100%">
 </div>
 
 <h1 align="center">👋 Hello, I'm Daniyal Bokhari</h1>
@@ -40,7 +40,7 @@
         <h3 align="center">Todo List</h3>
         <div align="center">  
           <a href="https://github.com/yourusername/todo-list" target="_blank">
-            <img src="https://via.placeholder.com/300x200?text=Todo+List+App" alt="Todo List" height="200px">
+            <img src="https://simpleicons.org/icons/react.svg" alt="Todo List" height="200px" width="200px">
           </a>
           <br>
           <br>
@@ -56,7 +56,7 @@
         <h3 align="center">Invoice Generator</h3>
         <div align="center">  
           <a href="https://github.com/yourusername/invoice-generator" target="_blank">
-            <img src="https://via.placeholder.com/300x200?text=Invoice+Generator" alt="Invoice Generator" height="200px">
+            <img src="https://simpleicons.org/icons/javascript.svg" alt="Invoice Generator" height="200px" width="200px">
           </a>
           <br>
           <br>
@@ -74,7 +74,7 @@
         <h3 align="center">Student Management System</h3>
         <div align="center">  
           <a href="https://github.com/yourusername/student-management" target="_blank">
-            <img src="https://via.placeholder.com/300x200?text=Student+Management+System" alt="Student Management System" height="200px">
+            <img src="https://simpleicons.org/icons/mongodb.svg" alt="Student Management System" height="200px" width="200px">
           </a>
           <br>
           <br>
@@ -89,7 +89,7 @@
       <td width="50%">
         <h3 align="center">More Projects Coming Soon!</h3>
         <div align="center">  
-          <img src="https://via.placeholder.com/300x200?text=Watch+This+Space" alt="More Projects Coming Soon" height="200px">
+          <img src="https://simpleicons.org/icons/loadio.svg" alt="More Projects Coming Soon" height="200px" width="200px">
           <br>
           <br>
           <p><strong>Stay tuned for more exciting projects!</strong></p>
