@@ -117,5 +117,5 @@
 ---
 
 <p align="center">
-  <i>"Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs</i>
+  <i>"Design is not just what it looks like and feels like. Design is how it works." - Daniyal syed</i>
 </p>
