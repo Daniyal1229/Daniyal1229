@@ -100,16 +100,7 @@
   </table>
 </div>
 
----
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Daniyal's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
-</div>
-
----
 
 <h2 align="center">🌟 Let's Connect!</h2>
 
