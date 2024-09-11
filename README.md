@@ -7,9 +7,9 @@
 <h3 align="center">Crafting Pixel-Perfect Experiences with Code</h3>
 
 <p align="center">
-  <a href="mailto:daniyalbokhari@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/daniyal-bokhari/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/DaniyalBokhari"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+  <a href="syeddaniyalbokhari72@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/daniyal1229/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://x.com/SyedDaniyal29"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
 </p>
 
 ---
@@ -109,9 +109,9 @@
 </p>
 
 <div align="center">
-  <a href="mailto:daniyalbokhari@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/daniyal-bokhari/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/DaniyalBokhari"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+  <a href="syeddaniyalbokhari72@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/daniyal1229/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://x.com/SyedDaniyal29"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
 </div>
 
 ---
