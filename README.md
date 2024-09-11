@@ -3,6 +3,7 @@
 </div>
 
 <h1 align="center">👋 Hello, I'm Daniyal Bokhari</h1>
+
 <h3 align="center">Crafting Pixel-Perfect Experiences with Code</h3>
 
 <p align="center">
@@ -104,8 +105,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniyalbokhari&show_icons=true&theme=radical" alt="Daniyal's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalbokhari&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Daniyal's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 ---
