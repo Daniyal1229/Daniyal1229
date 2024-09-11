@@ -1,104 +1,129 @@
-# Daniyal Bokhari - MERN Stack Developer
+<div align="center">
+  <img src="https://via.placeholder.com/1500x300?text=Daniyal+Bokhari+-+Frontend+Developer" alt="Daniyal Bokhari - Frontend Developer" width="100%">
+</div>
 
-![Banner](https://via.placeholder.com/1200x300?text=Daniyal+Bokhari+-+MERN+Stack+Developer)
-
----
-
-Welcome to my GitHub page! I am **Daniyal Bokhari**, a passionate MERN stack developer with a knack for creating efficient and scalable web applications. Here, you'll find some of my notable projects, each showcasing my skills and dedication to delivering high-quality code.
-
----
-
-## 🌟 Projects
-
-### 1. 📝 Todo List
-A simple yet effective Todo List application that helps you manage your tasks efficiently.
-
-- **Features:**
-  - Add, edit, and delete tasks
-  - Mark tasks as completed
-  - Filter tasks by status (all, active, completed)
-
-- **Technologies Used:**
-  - MongoDB, Express.js, React, Node.js
-
-### 2. 📑 Invoice Generator
-A comprehensive Invoice Generator application that simplifies the process of creating and managing invoices.
-
-- **Features:**
-  - Create and send invoices to clients
-  - Track payment status
-  - Generate PDF versions of invoices
-
-- **Technologies Used:**
-  - MongoDB, Express.js, React, Node.js
-
-### 3. 🎓 Student Management System
-A robust Student Management System designed to manage student information seamlessly.
-
-- **Features:**
-  - Add, update, and delete student records
-  - Search and filter students by various criteria
-  - Generate reports on student performance
-
-- **Technologies Used:**
-  - MongoDB, Express.js, React, Node.js
-
----
-
-## 📫 Contact Me
-Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
-
-- **Email:** [daniyalbokhari@example.com](mailto:daniyalbokhari@example.com)
-- **LinkedIn:** [Daniyal Bokhari](https://www.linkedin.com/in/daniyal-bokhari/)
-- **Twitter:** [@DaniyalBokhari](https://twitter.com/DaniyalBokhari)
-
----
+<h1 align="center">👋 Hello, I'm Daniyal Bokhari</h1>
+<h3 align="center">Crafting Pixel-Perfect Experiences with Code</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack-Expert-brightgreen" alt="MERN Stack Expert">
-  <img src="https://img.shields.io/badge/Node.js-JavaScript-brightgreen" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-Backend Framework-blue" alt="Express.js">
-  <img src="https://img.shields.io/badge/React-Frontend Framework-blue" alt="React">
-  <img src="https://img.shields.io/badge/MongoDB-Database-green" alt="MongoDB">
+  <a href="mailto:daniyalbokhari@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/daniyal-bokhari/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://twitter.com/DaniyalBokhari"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
 </p>
 
 ---
 
-## 💼 Skills
+<h2 align="center">🚀 Skills & Technologies</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
-  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">HTML</span>
-  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">CSS</span>
-  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">JavaScript</span>
-  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">React</span>
-  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Redux</span>
-  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Node.js</span>
-  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Express.js</span>
-  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">MongoDB</span>
-  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Mongoose</span>
-  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Git</span>
-  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">GitHub</span>
-  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Docker</span>
-  <span style="background-color: #004d1a; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Jenkins</span>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins">
+</p>
+
+---
+
+<h2 align="center">💼 Featured Projects</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Todo List</h3>
+        <div align="center">  
+          <a href="https://github.com/yourusername/todo-list" target="_blank">
+            <img src="https://via.placeholder.com/300x200?text=Todo+List+App" alt="Todo List" height="200px">
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/yourusername/todo-list" target="_blank">
+              <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github">
+            </a>
+          </p>
+          <p><strong>MongoDB, Express.js, React, Node.js</strong> - A sleek and efficient Todo List application for managing tasks with ease.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Invoice Generator</h3>
+        <div align="center">  
+          <a href="https://github.com/yourusername/invoice-generator" target="_blank">
+            <img src="https://via.placeholder.com/300x200?text=Invoice+Generator" alt="Invoice Generator" height="200px">
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/yourusername/invoice-generator" target="_blank">
+              <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github">
+            </a>
+          </p>
+          <p><strong>MongoDB, Express.js, React, Node.js</strong> - A comprehensive Invoice Generator for creating and managing professional invoices.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Student Management System</h3>
+        <div align="center">  
+          <a href="https://github.com/yourusername/student-management" target="_blank">
+            <img src="https://via.placeholder.com/300x200?text=Student+Management+System" alt="Student Management System" height="200px">
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/yourusername/student-management" target="_blank">
+              <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github">
+            </a>
+          </p>
+          <p><strong>MongoDB, Express.js, React, Node.js</strong> - A robust Student Management System for efficient handling of student information.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">More Projects Coming Soon!</h3>
+        <div align="center">  
+          <img src="https://via.placeholder.com/300x200?text=Watch+This+Space" alt="More Projects Coming Soon" height="200px">
+          <br>
+          <br>
+          <p><strong>Stay tuned for more exciting projects!</strong></p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daniyalbokhari&show_icons=true&theme=radical" alt="Daniyal's GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalbokhari&layout=compact&theme=radical" alt="Top Languages">
-</p>
+</div>
 
 ---
 
-## 🙏 Acknowledgments
+<h2 align="center">🌟 Let's Connect!</h2>
 
-I would like to extend my gratitude to all the open-source contributors whose projects and libraries have made my journey as a developer smoother and more enjoyable.
+<p align="center">
+  I'm always excited to collaborate on new projects or discuss the latest in frontend development. Feel free to reach out!
+</p>
+
+<div align="center">
+  <a href="mailto:daniyalbokhari@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/daniyal-bokhari/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://twitter.com/DaniyalBokhari"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+</div>
 
 ---
 
 <p align="center">
-  <i>"Strive not to be a success, but rather to be of value." - Albert Einstein</i>
+  <i>"Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs</i>
 </p>
