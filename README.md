@@ -41,7 +41,6 @@
         <h3 align="center">Todo List</h3>
         <div align="center">  
           <a href="https://github.com/yourusername/todo-list" target="_blank">
-            <img src="https://simpleicons.org/icons/react.svg" alt="Todo List" height="200px" width="200px">
           </a>
           <br>
           <br>
@@ -57,7 +56,6 @@
         <h3 align="center">Invoice Generator</h3>
         <div align="center">  
           <a href="https://github.com/yourusername/invoice-generator" target="_blank">
-            <img src="https://simpleicons.org/icons/javascript.svg" alt="Invoice Generator" height="200px" width="200px">
           </a>
           <br>
           <br>
@@ -75,7 +73,6 @@
         <h3 align="center">Student Management System</h3>
         <div align="center">  
           <a href="https://github.com/yourusername/student-management" target="_blank">
-            <img src="https://simpleicons.org/icons/mongodb.svg" alt="Student Management System" height="200px" width="200px">
           </a>
           <br>
           <br>
@@ -90,7 +87,6 @@
       <td width="50%">
         <h3 align="center">More Projects Coming Soon!</h3>
         <div align="center">  
-          <img src="https://simpleicons.org/icons/loadio.svg" alt="More Projects Coming Soon" height="200px" width="200px">
           <br>
           <br>
           <p><strong>Stay tuned for more exciting projects!</strong></p>
