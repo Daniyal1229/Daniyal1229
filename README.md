@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Daniyal%20Bokhari-Frontend%20Developer-brightgreen?style=for-the-badge&logo=react&logoColor=white&labelColor=2C3E50&color=27AE60" alt="Daniyal Bokhari - Mern Stack Developer" width="100%">
+  <img src="https://img.shields.io/badge/Daniyal%20Bokhari-Mern-Stack%20Developer-brightgreen?style=for-the-badge&logo=react&logoColor=white&labelColor=2C3E50&color=27AE60" alt="Daniyal Bokhari - Mern Stack Developer" width="100%">
 </div>
 
 <h1 align="center">👋 Hello, I'm Daniyal Bokhari</h1>
